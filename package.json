@@ -4,6 +4,7 @@
   "private": true,
   "module": "es2022",
   "dependencies": {
+    "@tinymce/tinymce-react": "^4.2.0",
     "fs-extra": "^10.1.0",
     "lightgallery": "^2.7.0",
     "react": "^18.2.0",

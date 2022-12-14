@@ -1,5 +1,4 @@
 import React from 'react';
-import props from "../utils/client/pageProps";
 
 
 const Category= ({pageProps}) => {
