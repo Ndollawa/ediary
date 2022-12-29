@@ -18,6 +18,9 @@
 .z-5{
     z-index: 5;
 }
+.rounded-t-4xl{
+    border-radius: 2rem;
+}
  .min-h-56{
     min-height: 14rem;
     }
@@ -31,6 +34,12 @@
     .max-h-96{
         max-height:24rem;
     }
+    .w-100{
+        width:30rem;
+    }
+.arc{
+    border-radius: 50% 50% 0 0;
+}
     .clearfix{
     clear:both;
     }
